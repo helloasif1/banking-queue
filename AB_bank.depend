@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625934301 source:e:\ds\ab_bank\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<unistd.h>
+
